@@ -1,0 +1,91 @@
+<settings version="2">
+    <setting id="buildname" default="true" />
+    <setting id="buildversion" default="true" />
+    <setting id="buildtheme" default="true" />
+    <setting id="latestversion" default="true" />
+    <setting id="lastbuildcheck">2024-04-15</setting>
+    <setting id="disableupdate" default="true">false</setting>
+    <setting id="installmethod">2</setting>
+    <setting id="show15">false</setting>
+    <setting id="show16">false</setting>
+    <setting id="show17">false</setting>
+    <setting id="show18">false</setting>
+    <setting id="show19">false</setting>
+    <setting id="show20">false</setting>
+    <setting id="show21">true</setting>
+    <setting id="seperate" default="true">false</setting>
+    <setting id="installed" default="true">false</setting>
+    <setting id="firstrun" default="true">false</setting>
+    <setting id="extract" default="true">100</setting>
+    <setting id="errors" default="true" />
+    <setting id="defaultskin" default="true" />
+    <setting id="defaultskinname" default="true" />
+    <setting id="defaultskinignore" default="true">false</setting>
+    <setting id="default.enablerssfeeds" default="true" />
+    <setting id="default.font" default="true" />
+    <setting id="default.rssedit" default="true" />
+    <setting id="default.skincolors" default="true" />
+    <setting id="default.skintheme" default="true" />
+    <setting id="default.skinzoom" default="true" />
+    <setting id="default.soundskin" default="true" />
+    <setting id="default.startupwindow" default="true" />
+    <setting id="default.stereostrength" default="true" />
+    <setting id="default.addonupdate" default="true" />
+    <setting id="pvrclient" default="true" />
+    <setting id="email" default="true" />
+    <setting id="oldlog" default="true">false</setting>
+    <setting id="wizlog" default="true">false</setting>
+    <setting id="crashlog" default="true">false</setting>
+    <setting id="showmaint" default="true">false</setting>
+    <setting id="path" default="true" />
+    <setting id="autoclean">true</setting>
+    <setting id="clearcache" default="true">false</setting>
+    <setting id="clearpackages">true</setting>
+    <setting id="clearthumbs" default="true">false</setting>
+    <setting id="autocleanfeq">3</setting>
+    <setting id="nextautocleanup">2024-04-22</setting>
+    <setting id="includevideo">true</setting>
+    <setting id="includeall">true</setting>
+    <setting id="includegaia">true</setting>
+    <setting id="includethecrew">true</setting>
+    <setting id="includehomelander">true</setting>
+    <setting id="includemoria">true</setting>
+    <setting id="includeseren">true</setting>
+    <setting id="keeptrakt">true</setting>
+    <setting id="traktlastsave">2024-04-18</setting>
+    <setting id="keepdebrid">true</setting>
+    <setting id="debridlastsave">2024-04-18</setting>
+    <setting id="keeplogin">true</setting>
+    <setting id="loginlastsave">2024-04-18</setting>
+    <setting id="keepfavourites" default="true">false</setting>
+    <setting id="keepsources" default="true">false</setting>
+    <setting id="keepprofiles" default="true">false</setting>
+    <setting id="keepadvanced">true</setting>
+    <setting id="keeprepos" default="true">false</setting>
+    <setting id="keepsuper" default="true">false</setting>
+    <setting id="keepwhitelist" default="true">false</setting>
+    <setting id="enable3rd" default="true">false</setting>
+    <setting id="wizard1name" default="true" />
+    <setting id="wizard1url" default="true" />
+    <setting id="wizard2name" default="true" />
+    <setting id="wizard2url" default="true" />
+    <setting id="wizard3name" default="true" />
+    <setting id="wizard3url" default="true" />
+    <setting id="developer" default="true">false</setting>
+    <setting id="adult" default="true">false</setting>
+    <setting id="auto-view">true</setting>
+    <setting id="viewType">50</setting>
+    <setting id="notify" default="true">false</setting>
+    <setting id="noteid">7</setting>
+    <setting id="notedismiss">true</setting>
+    <setting id="addon_debug">true</setting>
+    <setting id="debuglevel">2</setting>
+    <setting id="wizardlog">true</setting>
+    <setting id="autocleanwiz">true</setting>
+    <setting id="wizlogcleanby">1</setting>
+    <setting id="wizlogcleandays">2</setting>
+    <setting id="wizlogcleansize">1</setting>
+    <setting id="wizlogcleanlines">2</setting>
+    <setting id="nextcleandate">2024-04-18</setting>
+    <setting id="kodi17iscrap" />
+</settings>

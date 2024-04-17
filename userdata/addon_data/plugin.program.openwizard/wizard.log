@@ -1,0 +1,326 @@
+[2024-04-15 07:10:20] [Path Check] Started
+[2024-04-15 07:10:20] [Path Check] Good!
+[2024-04-15 07:10:20] [First Run] Showing Save Data Settings
+[2024-04-15 07:10:53] URL is not of a valid schema: http://
+[2024-04-15 07:10:53] [Current Build Check] Build Installed: 
+[2024-04-15 07:10:53] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-15 07:10:53] [Auto Install Repo] Not Enabled
+[2024-04-15 07:10:53] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-15 07:10:53] [Auto Update Wizard] Started
+[2024-04-15 07:10:53] URL is not of a valid schema: http://
+[2024-04-15 07:10:53] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-15 07:10:53] URL is not of a valid schema: http://
+[2024-04-15 07:10:53] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-15 07:10:53] [Build Installed Check] Not Enabled
+[2024-04-15 07:10:53] [Trakt Data] Started
+[2024-04-15 07:10:53] [Trakt Data] Saving all Data
+[2024-04-15 07:10:53] [Debrid Data] Started
+[2024-04-15 07:10:53] [Debrid Data] Saving all Data
+[2024-04-15 07:10:53] [Login Info] Started
+[2024-04-15 07:10:53] [Login Info] Saving all Data
+[2024-04-15 07:10:53] [Auto Clean Up] Not Enabled
+[2024-04-15 07:12:10] plugin://plugin.program.openwizard/: 
+[2024-04-15 07:12:11] URL is not of a valid schema: http://
+[2024-04-15 07:12:11] URL is not of a valid schema: http://
+[2024-04-15 07:12:11] URL is not of a valid schema: http://
+[2024-04-15 07:12:22] plugin://plugin.program.openwizard/: [ mode: maint ] 
+[2024-04-15 07:12:46] plugin://plugin.program.openwizard/: [ mode: maint ] [ name: clean ] 
+[2024-04-15 07:29:56] [Path Check] Started
+[2024-04-15 07:29:56] [Path Check] Good!
+[2024-04-15 07:29:56] [First Run] Skipping Save Data Settings
+[2024-04-15 07:29:56] URL is not of a valid schema: http://
+[2024-04-15 07:29:56] [Current Build Check] Build Installed: 
+[2024-04-15 07:29:56] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-15 07:29:56] [Auto Install Repo] Not Enabled
+[2024-04-15 07:29:56] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-15 07:29:56] [Auto Update Wizard] Started
+[2024-04-15 07:29:56] URL is not of a valid schema: http://
+[2024-04-15 07:29:56] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-15 07:29:56] URL is not of a valid schema: http://
+[2024-04-15 07:29:56] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-15 07:29:56] [Build Installed Check] Not Enabled
+[2024-04-15 07:29:56] [Trakt Data] Started
+[2024-04-15 07:29:56] [Trakt Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-15 07:29:56
+[2024-04-15 07:29:56] [Debrid Data] Started
+[2024-04-15 07:29:56] [Debrid Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-15 07:29:56
+[2024-04-15 07:29:57] [Login Info] Started
+[2024-04-15 07:29:57] [Login Info] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-15 07:29:57
+[2024-04-15 07:29:57] [Auto Clean Up] Not Enabled
+[2024-04-15 20:48:36] [Path Check] Started
+[2024-04-15 20:48:36] [Path Check] Good!
+[2024-04-15 20:48:36] [First Run] Skipping Save Data Settings
+[2024-04-15 20:48:36] URL is not of a valid schema: http://
+[2024-04-15 20:48:36] [Current Build Check] Build Installed: 
+[2024-04-15 20:48:36] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-15 20:48:36] [Auto Install Repo] Not Enabled
+[2024-04-15 20:48:36] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-15 20:48:36] [Auto Update Wizard] Started
+[2024-04-15 20:48:36] URL is not of a valid schema: http://
+[2024-04-15 20:48:36] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-15 20:48:36] URL is not of a valid schema: http://
+[2024-04-15 20:48:36] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-15 20:48:36] [Build Installed Check] Not Enabled
+[2024-04-15 20:48:36] [Trakt Data] Started
+[2024-04-15 20:48:36] [Trakt Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-15 20:48:36
+[2024-04-15 20:48:36] [Debrid Data] Started
+[2024-04-15 20:48:36] [Debrid Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-15 20:48:36
+[2024-04-15 20:48:36] [Login Info] Started
+[2024-04-15 20:48:36] [Login Info] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-15 20:48:36
+[2024-04-15 20:48:36] [Auto Clean Up] Not Enabled
+[2024-04-16 13:16:24] [Path Check] Started
+[2024-04-16 13:16:24] [Path Check] Good!
+[2024-04-16 13:16:24] [First Run] Skipping Save Data Settings
+[2024-04-16 13:16:30] URL is not of a valid schema: http://
+[2024-04-16 13:16:30] [Current Build Check] Build Installed: 
+[2024-04-16 13:16:30] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-16 13:16:30] [Auto Install Repo] Not Enabled
+[2024-04-16 13:16:30] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-16 13:16:30] [Auto Update Wizard] Started
+[2024-04-16 13:16:30] URL is not of a valid schema: http://
+[2024-04-16 13:16:30] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-16 13:16:30] URL is not of a valid schema: http://
+[2024-04-16 13:16:30] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-16 13:16:30] [Build Installed Check] Not Enabled
+[2024-04-16 13:16:31] [Trakt Data] Started
+[2024-04-16 13:16:31] [Trakt Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 13:16:31
+[2024-04-16 13:16:31] [Debrid Data] Started
+[2024-04-16 13:16:31] [Debrid Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 13:16:31
+[2024-04-16 13:16:31] [Login Info] Started
+[2024-04-16 13:16:31] [Login Info] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 13:16:31
+[2024-04-16 13:16:31] [Auto Clean Up] Not Enabled
+[2024-04-16 17:57:47] [Path Check] Started
+[2024-04-16 17:57:47] [Path Check] Good!
+[2024-04-16 17:57:47] [First Run] Skipping Save Data Settings
+[2024-04-16 17:57:54] URL is not of a valid schema: http://
+[2024-04-16 17:57:54] [Current Build Check] Build Installed: 
+[2024-04-16 17:57:54] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-16 17:57:54] [Auto Install Repo] Not Enabled
+[2024-04-16 17:57:54] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-16 17:57:54] [Auto Update Wizard] Started
+[2024-04-16 17:57:54] URL is not of a valid schema: http://
+[2024-04-16 17:57:54] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-16 17:57:54] URL is not of a valid schema: http://
+[2024-04-16 17:57:54] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-16 17:57:54] [Build Installed Check] Not Enabled
+[2024-04-16 17:57:54] [Trakt Data] Started
+[2024-04-16 17:57:54] [Trakt Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 17:57:54
+[2024-04-16 17:57:54] [Debrid Data] Started
+[2024-04-16 17:57:54] [Debrid Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 17:57:54
+[2024-04-16 17:57:54] [Login Info] Started
+[2024-04-16 17:57:54] [Login Info] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 17:57:54
+[2024-04-16 17:57:54] [Auto Clean Up] Not Enabled
+[2024-04-16 18:10:16] [Path Check] Started
+[2024-04-16 18:10:16] [Path Check] Good!
+[2024-04-16 18:10:16] [First Run] Skipping Save Data Settings
+[2024-04-16 18:10:23] URL is not of a valid schema: http://
+[2024-04-16 18:10:23] [Current Build Check] Build Installed: 
+[2024-04-16 18:10:23] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-16 18:10:23] [Auto Install Repo] Not Enabled
+[2024-04-16 18:10:23] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-16 18:10:23] [Auto Update Wizard] Started
+[2024-04-16 18:10:23] URL is not of a valid schema: http://
+[2024-04-16 18:10:23] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-16 18:10:23] URL is not of a valid schema: http://
+[2024-04-16 18:10:23] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-16 18:10:23] [Build Installed Check] Not Enabled
+[2024-04-16 18:10:23] [Trakt Data] Started
+[2024-04-16 18:10:23] [Trakt Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 18:10:23
+[2024-04-16 18:10:23] [Debrid Data] Started
+[2024-04-16 18:10:23] [Debrid Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 18:10:23
+[2024-04-16 18:10:23] [Login Info] Started
+[2024-04-16 18:10:23] [Login Info] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 18:10:23
+[2024-04-16 18:10:23] [Auto Clean Up] Not Enabled
+[2024-04-16 19:44:30] [Path Check] Started
+[2024-04-16 19:44:30] [Path Check] Good!
+[2024-04-16 19:44:30] [First Run] Skipping Save Data Settings
+[2024-04-16 19:44:34] URL is not of a valid schema: http://
+[2024-04-16 19:44:34] [Current Build Check] Build Installed: 
+[2024-04-16 19:44:34] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-16 19:44:34] [Auto Install Repo] Not Enabled
+[2024-04-16 19:44:34] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-16 19:44:34] [Auto Update Wizard] Started
+[2024-04-16 19:44:34] URL is not of a valid schema: http://
+[2024-04-16 19:44:34] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-16 19:44:35] URL is not of a valid schema: http://
+[2024-04-16 19:44:35] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-16 19:44:35] [Build Installed Check] Not Enabled
+[2024-04-16 19:44:35] [Trakt Data] Started
+[2024-04-16 19:44:35] [Trakt Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 19:44:35
+[2024-04-16 19:44:35] [Debrid Data] Started
+[2024-04-16 19:44:35] [Debrid Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 19:44:35
+[2024-04-16 19:44:35] [Login Info] Started
+[2024-04-16 19:44:35] [Login Info] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 19:44:35
+[2024-04-16 19:44:35] [Auto Clean Up] Not Enabled
+[2024-04-16 23:36:29] [Path Check] Started
+[2024-04-16 23:36:29] [Path Check] Good!
+[2024-04-16 23:36:29] [First Run] Skipping Save Data Settings
+[2024-04-16 23:36:35] URL is not of a valid schema: http://
+[2024-04-16 23:36:35] [Current Build Check] Build Installed: 
+[2024-04-16 23:36:35] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-16 23:36:35] [Auto Install Repo] Not Enabled
+[2024-04-16 23:36:35] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-16 23:36:35] [Auto Update Wizard] Started
+[2024-04-16 23:36:35] URL is not of a valid schema: http://
+[2024-04-16 23:36:35] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-16 23:36:35] URL is not of a valid schema: http://
+[2024-04-16 23:36:35] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-16 23:36:35] [Build Installed Check] Not Enabled
+[2024-04-16 23:36:35] [Trakt Data] Started
+[2024-04-16 23:36:35] [Trakt Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 23:36:35
+[2024-04-16 23:36:35] [Debrid Data] Started
+[2024-04-16 23:36:35] [Debrid Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 23:36:35
+[2024-04-16 23:36:35] [Login Info] Started
+[2024-04-16 23:36:35] [Login Info] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-16 23:36:35
+[2024-04-16 23:36:35] [Auto Clean Up] Not Enabled
+[2024-04-17 12:04:01] [Path Check] Started
+[2024-04-17 12:04:01] [Path Check] Good!
+[2024-04-17 12:04:01] [First Run] Skipping Save Data Settings
+[2024-04-17 12:04:08] URL is not of a valid schema: http://
+[2024-04-17 12:04:08] [Current Build Check] Build Installed: 
+[2024-04-17 12:04:08] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2024-04-17 12:04:08] [Auto Install Repo] Not Enabled
+[2024-04-17 12:04:08] [Binary Detection] Eligible Binary Addons to Reinstall
+[2024-04-17 12:04:08] [Auto Update Wizard] Started
+[2024-04-17 12:04:08] URL is not of a valid schema: http://
+[2024-04-17 12:04:08] [Auto Update Wizard] Url for wizard file not valid: http://
+[2024-04-17 12:04:08] URL is not of a valid schema: http://
+[2024-04-17 12:04:08] [Notifications] Notifications file at http:// not formatted correctly.
+[2024-04-17 12:04:08] [Build Installed Check] Not Enabled
+[2024-04-17 12:04:08] [Trakt Data] Started
+[2024-04-17 12:04:08] [Trakt Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-17 12:04:08
+[2024-04-17 12:04:08] [Debrid Data] Started
+[2024-04-17 12:04:08] [Debrid Data] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-17 12:04:08
+[2024-04-17 12:04:08] [Login Info] Started
+[2024-04-17 12:04:08] [Login Info] Next Auto Save isn't until: 2024-04-18 07:10:53 / TODAY is: 2024-04-17 12:04:08
+[2024-04-17 12:04:09] [Auto Clean Up] Not Enabled
+[2024-04-17 12:26:24] plugin://plugin.program.openwizard/: 
+[2024-04-17 12:26:24] URL is not of a valid schema: http://
+[2024-04-17 12:26:24] URL is not of a valid schema: http://
+[2024-04-17 12:26:24] URL is not of a valid schema: http://
+[2024-04-17 12:26:36] plugin://plugin.program.openwizard/: [ mode: builds ] 
+[2024-04-17 12:26:37] URL is not of a valid schema: http://
+[2024-04-17 12:26:44] plugin://plugin.program.openwizard/: 
+[2024-04-17 12:26:44] URL is not of a valid schema: http://
+[2024-04-17 12:26:44] URL is not of a valid schema: http://
+[2024-04-17 12:26:44] URL is not of a valid schema: http://
+[2024-04-17 12:27:28] plugin://plugin.program.openwizard/: 
+[2024-04-17 12:27:29] URL is not of a valid schema: http://
+[2024-04-17 12:27:29] URL is not of a valid schema: http://
+[2024-04-17 12:27:29] URL is not of a valid schema: http://
+[2024-04-17 12:27:33] plugin://plugin.program.openwizard/: 
+[2024-04-17 12:27:34] URL is not of a valid schema: http://
+[2024-04-17 12:27:34] URL is not of a valid schema: http://
+[2024-04-17 12:27:34] URL is not of a valid schema: http://
+[2024-04-17 12:27:35] plugin://plugin.program.openwizard/: [ mode: savedata ] 
+[2024-04-17 12:28:06] plugin://plugin.program.openwizard/: [ mode: builds ] 
+[2024-04-17 12:28:07] URL is not of a valid schema: http://
+[2024-04-17 12:29:02] plugin://plugin.program.openwizard/: 
+[2024-04-17 12:29:02] URL is not of a valid schema: http://
+[2024-04-17 12:29:02] URL is not of a valid schema: http://
+[2024-04-17 12:29:02] URL is not of a valid schema: http://
+[2024-04-17 12:29:07] plugin://plugin.program.openwizard/: [ mode: savedata ] 
+[2024-04-17 12:29:26] plugin://plugin.program.openwizard/: [ mode: settings ] [ name: plugin.program.openwizard ] 
+[2024-04-17 12:29:31] plugin://plugin.program.openwizard/: 
+[2024-04-17 12:29:31] URL is not of a valid schema: http://
+[2024-04-17 12:29:31] URL is not of a valid schema: http://
+[2024-04-17 12:29:31] URL is not of a valid schema: http://
+[2024-04-17 12:29:35] plugin://plugin.program.openwizard/: [ mode: maint ] 
+[2024-04-17 12:29:42] plugin://plugin.program.openwizard/: [ mode: maint ] [ name: backup ] 
+[2024-04-17 12:29:59] plugin://plugin.program.openwizard/: [ mode: backup ] [ action: build ] 
+[2024-04-17 12:30:49] [Convert Paths to Special] Complete
+[2024-04-17 12:30:50] Checking context.seren for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\context.seren\addon.xml
+[2024-04-17 12:30:50] Checking metadata.album.universal for platform-dependence...
+[2024-04-17 12:30:50] Checking metadata.artists.universal for platform-dependence...
+[2024-04-17 12:30:50] Checking metadata.common.fanart.tv for platform-dependence...
+[2024-04-17 12:30:50] Checking metadata.generic.albums for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\metadata.generic.albums\addon.xml
+[2024-04-17 12:30:50] Checking metadata.themoviedb.org.python for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\metadata.themoviedb.org.python\addon.xml
+[2024-04-17 12:30:50] Checking metadata.tvshows.themoviedb.org.python for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\metadata.tvshows.themoviedb.org.python\addon.xml
+[2024-04-17 12:30:50] Checking plugin.program.openwizard for platform-dependence...
+[2024-04-17 12:30:50] Checking plugin.program.thecrewiz for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\plugin.program.thecrewiz\addon.xml
+[2024-04-17 12:30:50] Checking plugin.video.fen for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\plugin.video.fen\addon.xml
+[2024-04-17 12:30:50] Checking plugin.video.seren for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\plugin.video.seren\addon.xml
+[2024-04-17 12:30:50] Checking plugin.video.themoviedb.helper for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\plugin.video.themoviedb.helper\addon.xml
+[2024-04-17 12:30:50] Checking repository.a4ksubtitles for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\repository.a4ksubtitles\addon.xml
+[2024-04-17 12:30:50] Checking repository.cocoscrapers for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\repository.cocoscrapers\addon.xml
+[2024-04-17 12:30:50] Checking repository.jurialmunkey for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\repository.jurialmunkey\addon.xml
+[2024-04-17 12:30:50] Checking repository.nixgates for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\repository.nixgates\addon.xml
+[2024-04-17 12:30:50] Checking repository.openwizard for platform-dependence...
+[2024-04-17 12:30:50] Checking repository.thecrew for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\repository.thecrew\addon.xml
+[2024-04-17 12:30:50] Checking resource.font.robotocjksc for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\resource.font.robotocjksc\addon.xml
+[2024-04-17 12:30:50] Checking resource.images.studios.coloured for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\resource.images.studios.coloured\addon.xml
+[2024-04-17 12:30:50] Checking resource.images.weathericons.white for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\resource.images.weathericons.white\addon.xml
+[2024-04-17 12:30:50] Checking script.keymap for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.keymap\addon.xml
+[2024-04-17 12:30:50] Checking script.module.addon.signals for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.addon.signals\addon.xml
+[2024-04-17 12:30:50] Checking script.module.arrow for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.arrow\addon.xml
+[2024-04-17 12:30:50] Checking script.module.beautifulsoup4 for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.beautifulsoup4\addon.xml
+[2024-04-17 12:30:50] Checking script.module.certifi for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.certifi\addon.xml
+[2024-04-17 12:30:50] Checking script.module.chardet for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.chardet\addon.xml
+[2024-04-17 12:30:50] Checking script.module.cocoscrapers for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.cocoscrapers\addon.xml
+[2024-04-17 12:30:50] Checking script.module.dateutil for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.dateutil\addon.xml
+[2024-04-17 12:30:50] Checking script.module.defusedxml for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.defusedxml\addon.xml
+[2024-04-17 12:30:50] Checking script.module.idna for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.idna\addon.xml
+[2024-04-17 12:30:50] Checking script.module.infotagger for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.infotagger\addon.xml
+[2024-04-17 12:30:50] Checking script.module.jurialmunkey for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.jurialmunkey\addon.xml
+[2024-04-17 12:30:50] Checking script.module.kodi-six for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.kodi-six\addon.xml
+[2024-04-17 12:30:50] Checking script.module.myconnpy for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.myconnpy\addon.xml
+[2024-04-17 12:30:50] Checking script.module.requests for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.requests\addon.xml
+[2024-04-17 12:30:50] Checking script.module.simpleeval for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.simpleeval\addon.xml
+[2024-04-17 12:30:50] Checking script.module.six for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.six\addon.xml
+[2024-04-17 12:30:50] Checking script.module.soupsieve for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.soupsieve\addon.xml
+[2024-04-17 12:30:50] Checking script.module.trakt for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.trakt\addon.xml
+[2024-04-17 12:30:50] Checking script.module.typing_extensions for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.typing_extensions\addon.xml
+[2024-04-17 12:30:50] Checking script.module.unidecode for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.unidecode\addon.xml
+[2024-04-17 12:30:50] Checking script.module.urllib3 for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.module.urllib3\addon.xml
+[2024-04-17 12:30:50] Checking script.skinshortcuts for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.skinshortcuts\addon.xml
+[2024-04-17 12:30:50] Checking script.skinvariables for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.skinvariables\addon.xml
+[2024-04-17 12:30:50] Checking script.texturemaker for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.texturemaker\addon.xml
+[2024-04-17 12:30:50] Checking script.trakt for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\script.trakt\addon.xml
+[2024-04-17 12:30:50] Checking service.subtitles.a4ksubtitles for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\service.subtitles.a4ksubtitles\addon.xml
+[2024-04-17 12:30:50] Checking service.xbmc.versioncheck for platform-dependence...
+[2024-04-17 12:30:50] Checking skin.arctic.horizon.2 for platform-dependence...
+[2024-04-17 12:30:50] Checking C:\Users\gspik\AppData\Roaming\Kodi\addons\skin.arctic.horizon.2\addon.xml
+[2024-04-17 12:30:50] Checking temp for platform-dependence...
+[2024-04-17 12:30:50] [Back Up] Type = build: Ignore kodi.log - Log File

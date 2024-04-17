@@ -1,0 +1,66 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>8</defaultID>
+		<label>8</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/sun.png</icon>
+		<thumb />
+		<action>ActivateWindow(weather)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>20077</defaultID>
+		<label>20077</label>
+		<label2>Settings</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(SkinSettings)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>20183</defaultID>
+		<label>20183</label>
+		<label2>Default</label2>
+		<icon>special://skin/extras/icons/update.png</icon>
+		<thumb>special://skin/extras/icons/update.png</thumb>
+		<action>ReloadSkin()</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1036</defaultID>
+		<label>1036</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/favourites2.png</icon>
+		<thumb />
+		<action>ActivateWindow(favourites)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>7</defaultID>
+		<label>7</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/filebox.png</icon>
+		<thumb />
+		<action>ActivateWindow(filemanager)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>24001</defaultID>
+		<label>24001</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/addon.png</icon>
+		<thumb />
+		<action>ActivateWindow(addonbrowser)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>5</defaultID>
+		<label>5</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb />
+		<action>ActivateWindow(interfacesettings)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>13009</defaultID>
+		<label>13009</label>
+		<label2>Power Shortcut</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb />
+		<action>Quit()</action>
+		</shortcut>
+	</shortcuts>
